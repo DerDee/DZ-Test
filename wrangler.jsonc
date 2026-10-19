@@ -1,0 +1,7 @@
+{
+  "name": "dz-test",
+  "compatibility_date": "2026-10-19", // Update to the day you deploy
+  "assets": {
+    "directory": "./dist",
+  }
+}
